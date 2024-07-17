@@ -5,16 +5,16 @@ plugins {
 
 ext {
     // Library
-    LIBRARY_NAME = 'SmartMaterialSpinner'
-    PUBLISH_GROUP_ID = 'com.github.chivorns'
+    LIBRARY_NAME = 'smartmaterialspinner'
+    PUBLISH_GROUP_ID = 'com.github.YASMINCOS'
     PUBLISH_ARTIFACT_ID = LIBRARY_NAME.toLowerCase()
     PUBLISH_VERSION = '2.0.0'
     PUBLISH_DESCRIPTION = "Provide with more customization for your spinner."
 
     // Github
-    GIT_REPO_URL = 'https://github.com/Chivorns/SmartMaterialSpinner'
+    GIT_REPO_URL = 'https://github.com/YASMINCOS/smartmaterialspinner'
     GIT_VCS_URL = GIT_REPO_URL + '.git'
-    GIT_USER_REPO_NAME = 'Chivorns/SmartMaterialSpinner'
+    GIT_USER_REPO_NAME = 'YASMINCOS/smartmaterialspinner'
 
     // Developer Info
     DEVELOPER_ID = 'chivorns'
